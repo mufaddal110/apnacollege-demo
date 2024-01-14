@@ -1,5 +1,5 @@
 # apnacollege-demo
 this is my first Git repository
 <br>
-Author Hur Hussain
+Author Hur Hussain zaidi
 new
